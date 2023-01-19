@@ -1,0 +1,20 @@
+p { 
+    background-color: #ffc0cb;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+
+#elm2 {
+        color: #0000ff;
+        font-size: 36px;
+        }
+
+.elm {
+    font-size: 24px;
+}
+
+#elm3 {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
