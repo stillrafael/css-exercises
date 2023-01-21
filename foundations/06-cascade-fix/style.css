@@ -22,7 +22,7 @@ body{
   font-weight: bold;
 } 
 
-.button {
+button {
   color: rgb(0, 0, 0);
   font-size: 20px;
 }
