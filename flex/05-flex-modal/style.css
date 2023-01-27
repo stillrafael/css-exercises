@@ -64,3 +64,46 @@ button.cancel {
   border: 1px solid #ddd;
   color: royalblue;
 }
+
+/* assignment */
+
+.header {
+  display: flex;
+  font-size: large;
+  font-weight: bold;
+  flex-shrink: 0;
+  justify-content: flex-start;
+}
+
+.modal {
+  padding: 16px;
+}
+
+.pos1 {
+  display:flex;
+  width: 100%;
+  justify-content: space-between;
+}
+
+
+.pos2{
+  display: flex;
+  flex-wrap: wrap;
+  gap:10px;
+}
+
+.pos3 {
+  display: flex;
+  justify-content: space-between;
+  gap:20px;
+}
+
+button.pos4 {
+  display: flex;
+  justify-content: flex-start;
+  margin: 5px;;
+}
+.icon { 
+  flex-shrink: 0;
+}
+
