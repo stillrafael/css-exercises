@@ -98,11 +98,6 @@ button.cancel {
   gap:20px;
 }
 
-button.pos4 {
-  display: flex;
-  justify-content: flex-start;
-  margin: 5px;;
-}
 .icon { 
   flex-shrink: 0;
 }
