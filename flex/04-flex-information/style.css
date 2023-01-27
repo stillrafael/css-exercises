@@ -24,3 +24,37 @@ img {
   justify-content: center;
   background: #eee;
 }
+/* assignment*/
+
+.body {
+  display: flex;
+  justify-content: center;
+}
+
+.text{
+  display: flex;
+  align-self: center;
+  text-align: center;
+  
+}
+
+img{
+  display: flex;
+  align-items: flex-start;
+ 
+}
+
+.title {
+  display: flex;
+  justify-content:  center;
+}
+
+.container {
+  width: 200px;
+  height: 200px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  padding:32px;
+  margin: 52px;
+}
