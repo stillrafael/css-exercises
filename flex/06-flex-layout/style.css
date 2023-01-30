@@ -25,3 +25,51 @@ input {
   width: 400px;
   margin-bottom: 16px;
 }
+
+/* assignment */
+
+ul { 
+  list-style: none;
+  display: flex;
+}
+a { 
+  text-decoration:none;
+}
+
+.header, .footer {
+  display: flex;
+  padding:5px;
+  justify-content: space-between;
+}
+
+.footer {
+  background-color: #eeeeee;
+}
+
+.content { 
+  display: flex;
+  align-self: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.buttons, img, .input{
+  align-self:center;
+  justify-content: center;
+  margin:5px;
+}
+
+button {
+  padding:10px;
+}
+
+li {
+  display: flex;
+  margin:5px;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
